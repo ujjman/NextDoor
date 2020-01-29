@@ -1,0 +1,17 @@
+{
+    "tiles":{
+       "Center":"NextDoor:white",
+       "Top":"NextDoor:wood",
+       "Bottom":"NextDoor:wood",
+       "Right":"NextDoor:wood",
+       "Left":"NextDoor:wood"
+    },
+    "shape" :"NextDoor:Light",
+    "shadowCasting": true,
+    "luminance": 14,
+    "hardness": 1,
+    "entity": {
+        "prefab": "CoreBlocks:Torch"
+    },
+    "mass": 10
+}

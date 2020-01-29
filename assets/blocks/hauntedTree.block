@@ -1,0 +1,11 @@
+{
+    "tile":"NextDoor:blackWood",
+    "shape" :"NextDoor:Tree",
+    "shadowCasting": false,
+    "luminance": 9,
+    "hardness": 1,
+    "entity": {
+        "prefab": "CoreBlocks:Torch"
+    },
+    "mass": 10
+}

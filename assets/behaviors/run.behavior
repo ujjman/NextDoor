@@ -1,0 +1,22 @@
+{
+
+      sequence : [
+        {
+          set_speed : { speedMultiplier: 2.0 }
+        },
+        {
+          lookup: { tree: "NextDoor:runRandomly" }
+        },
+        {
+          animation : {
+            play: "engine:Walk.animationPool",
+            loop: "engine:Walk.animationPool"
+          }
+        },
+        {
+          sleep : {
+            time : 2
+          }
+        }
+      ]
+}

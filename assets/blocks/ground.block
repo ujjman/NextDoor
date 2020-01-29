@@ -1,0 +1,4 @@
+{
+    "basedOn": "CoreAssets:soil",
+    "tile": "NextDoor:brownGround"
+}
